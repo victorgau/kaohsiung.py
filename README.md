@@ -6,6 +6,7 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 活動網址 (舊)：[https://kaohsiungpy.kktix.cc/](https://kaohsiungpy.kktix.cc/)
 
+## 舉辦過的活動：
 
 \#02. 2014/04/14 - [30分鐘建構 Web App (使用Django)](https://kaohsiungpy.kktix.cc/events/195b0b33-adb246)
 
