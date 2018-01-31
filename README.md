@@ -8,19 +8,19 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 ## 舉辦過的活動：
 
-\#36. 2018/01/22 - [Docker Swarm 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/246901451/) ==> [[參考資料](https://github.com/twtrubiks/docker-swarm-tutorial)]
+\#36. 2018/01/22 - [Docker Swarm 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/246901451/) - [[參考資料](https://github.com/twtrubiks/docker-swarm-tutorial)]
 
 \#35. 2017/12/04 - [參加台灣資料科學年會&AI年會的­心得分享](https://www.meetup.com/Kaohsiung-Python-Meetup/events/245464148/)
 
-\#34. 2017/11/20 - [Line股票機器人DIY](https://www.meetup.com/Kaohsiung-Python-Meetup/events/245077445/) ==> [[參考資料](https://github.com/maloyang/stock-line-bot)]
+\#34. 2017/11/20 - [Line股票機器人DIY](https://www.meetup.com/Kaohsiung-Python-Meetup/events/245077445/) - [[參考資料](https://github.com/maloyang/stock-line-bot)]
 
-\#33. 2017/10/02 - [MicroPython 103: IoT with MongoDB](https://www.meetup.com/Kaohsiung-Python-Meetup/events/243616549/) ==> [[投影片](https://goo.gl/BW9rsu)]
+\#33. 2017/10/02 - [MicroPython 103: IoT with MongoDB](https://www.meetup.com/Kaohsiung-Python-Meetup/events/243616549/) - [[投影片](https://goo.gl/BW9rsu)]
 
-\#32. 2017/09/19 - [DIY Line Bot 使用 Python Flask](https://www.meetup.com/Kaohsiung-Python-Meetup/events/243299175/) ==> [[參考資料](https://github.com/twtrubiks/line-bot-tutorial)]
+\#32. 2017/09/19 - [DIY Line Bot 使用 Python Flask](https://www.meetup.com/Kaohsiung-Python-Meetup/events/243299175/) - [[參考資料](https://github.com/twtrubiks/line-bot-tutorial)]
 
-\#31. 2017/08/29 - [MicroPython IOT入門](https://www.meetup.com/Kaohsiung-Python-Meetup/events/242756719/) ==> [[投影片](https://docs.google.com/presentation/d/1ZYA6sStyTAxShAXdLA0Nw5GJ_qV0gva-zpbpje07FN4/edit#slide=id.g35f391192_00)]
+\#31. 2017/08/29 - [MicroPython IOT入門](https://www.meetup.com/Kaohsiung-Python-Meetup/events/242756719/) - [[投影片](https://docs.google.com/presentation/d/1ZYA6sStyTAxShAXdLA0Nw5GJ_qV0gva-zpbpje07FN4/edit#slide=id.g35f391192_00)]
 
-\#30. 2017/05/16 - [MicroPython 101](https://www.meetup.com/Kaohsiung-Python-Meetup/events/239821308/) ==> [[投影片](https://goo.gl/swXXYG)]
+\#30. 2017/05/16 - [MicroPython 101](https://www.meetup.com/Kaohsiung-Python-Meetup/events/239821308/) - [[投影片](https://goo.gl/swXXYG)]
 
 \#29. 2017/05/02 - [增強學習介紹](https://www.meetup.com/Kaohsiung-Python-Meetup/events/239474390/)
 
