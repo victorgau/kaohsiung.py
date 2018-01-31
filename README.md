@@ -22,7 +22,7 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 \#30. 2017/05/16 - [MicroPython 101](https://www.meetup.com/Kaohsiung-Python-Meetup/events/239821308/) - [[投影片](https://goo.gl/swXXYG)]
 
-\#29. 2017/05/02 - [增強學習介紹](https://www.meetup.com/Kaohsiung-Python-Meetup/events/239474390/)
+\#29. 2017/05/02 - [增強學習介紹](https://www.meetup.com/Kaohsiung-Python-Meetup/events/239474390/) - [[投影片](https://goo.gl/1BYovi)]
 
 \#28. 2017/04/11 - [Python Web 101](https://www.meetup.com/Kaohsiung-Python-Meetup/events/238826430/)
 
