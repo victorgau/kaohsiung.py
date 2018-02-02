@@ -62,7 +62,7 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 \#10. 2015/03/30 - [1. Google Cloud Platform 簡介, 2. Creating Map Applications with Python](https://kaohsiungpy.kktix.cc/events/195b0b33-adb246-2eb7b0-e152cc-a34bd3-7994c3-db234a-1c64ca-f1a3be-f59acc)
 
-\#09. 2015/02/09 - [中等規模環境下的集中式 Log 管理及分析](https://kaohsiungpy.kktix.cc/events/195b0b33-adb246-2eb7b0-e152cc-a34bd3-7994c3-db234a-1c64ca-f1a3be)
+\#09. 2015/02/09 - [中等規模環境下的集中式 Log 管理及分析](https://goo.gl/c8BdYn) - [[參考資料](https://goo.gl/RjbksH)]
 
 \#08. 2015/01/26 - [快速架站 tutorial with Python](https://kaohsiungpy.kktix.cc/events/195b0b33-adb246-2eb7b0-e152cc-a34bd3-7994c3-db234a-1c64ca)
 
