@@ -8,6 +8,8 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 ## 舉辦過的活動：
 
+\#37. 2018/02/12 - [文字分析 Python 入門](https://www.meetup.com/Kaohsiung-Python-Meetup/events/247544265/) - [[投影片](https://www.slideshare.net/xiaohuang545/python-87902078)]
+
 \#36. 2018/01/22 - [Docker Swarm 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/246901451/) - [[參考資料](https://github.com/twtrubiks/docker-swarm-tutorial)]
 
 \#35. 2017/12/04 - [參加台灣資料科學年會&AI年會的­心得分享](https://www.meetup.com/Kaohsiung-Python-Meetup/events/245464148/)
