@@ -8,7 +8,7 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 ## 舉辦過的活動：
 
-\#39. 2018/03/12 - 量化投資多策略比較 + GitLab-CI
+\#39. 2018/04/XX - 量化投資多策略比較 + GitLab-CI (時間待定)
 
 \#38. 2018/03/05 - [工業4.0：PLC與Python共舞](https://www.meetup.com/Kaohsiung-Python-Meetup/events/248187128/) - [[參考資料](https://github.com/maloyang/PLC-Python)]
 
