@@ -54,7 +54,7 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 \#17. 2016/02/20 - [機器學習寫詩作畫](https://www.meetup.com/Kaohsiung-Python-Meetup/events/228805622/)
 
-\#16. 2015/12/14 - [Jieba + word2vec](https://www.meetup.com/Kaohsiung-Python-Meetup/events/227010580/) - [word2vec講義](https://bit.ly/2vN8LXl)
+\#16. 2015/12/14 - [Jieba + word2vec](https://www.meetup.com/Kaohsiung-Python-Meetup/events/227010580/) - [[word2vec講義](https://bit.ly/2vN8LXl)]
 
 \#15. 2015/11/08 -[Deep Learning Workshop](https://www.meetup.com/Kaohsiung-Python-Meetup/events/226162999/)
 
