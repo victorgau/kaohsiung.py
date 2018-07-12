@@ -8,7 +8,9 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 ## 舉辦過的活動：
 
-\#40. 2018/06/19 - [無腦機器學習 - Scikit-Learn 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/251374236/)
+\#41. 2018/06/19 - [無腦機器學習 - Scikit-Learn 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/251374236/) - [[投影片一](http://bit.ly/2FDEvCH)] [[投影片二](https://bit.ly/2uv4t6b)] [[投影片三](https://bit.ly/2Iagwbd)]
+
+\#40. 2018/06/13 - [1. 小鴨城 (Duckietown), 2. 自幹一個 Python 協同程序](https://www.meetup.com/Kaohsiung-Python-Meetup/events/251634923/)
 
 \#39. 2018/04/17 - [量化投資多策略比較 + GitLab-CI](https://www.meetup.com/Kaohsiung-Python-Meetup/events/249243461/) - [[參考資料](https://github.com/victorgau/MultiStrategies)]
 
