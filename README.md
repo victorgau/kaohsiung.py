@@ -8,6 +8,10 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 ## 舉辦過的活動：
 
+\#43. 2018/08/20 - [Numpy, MatPlotLib, Pandas 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/253411278/)
+
+\#42. 2018/07/30 - [MicroPython與機器人](https://www.meetup.com/Kaohsiung-Python-Meetup/events/253051138/)
+
 \#41. 2018/06/19 - [無腦機器學習 - Scikit-Learn 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/251374236/) - [[投影片一](http://bit.ly/2FDEvCH)] [[投影片二](https://bit.ly/2uv4t6b)] [[投影片三](https://bit.ly/2Iagwbd)]
 
 \#40. 2018/06/13 - [1. 小鴨城 (Duckietown), 2. 自幹一個 Python 協同程序](https://www.meetup.com/Kaohsiung-Python-Meetup/events/251634923/)
