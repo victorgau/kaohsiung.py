@@ -8,6 +8,14 @@ Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.co
 
 ## 舉辦過的活動：
 
+\#46. 2018/11/06 - [Kaohsiung Python Meetup #46 - RAPIDS 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/255984412/)
+
+\#45. 2018/10/20 - [Kaohsiung Python Meetup #45 - Telegram Bot Workshop](https://www.meetup.com/Kaohsiung-Python-Meetup/events/255340504/)
+
+\#Quant01. 2018/10/14 - [Quantitative Investment Meetup #1 - 市場波動與資金管理](https://www.meetup.com/Kaohsiung-Python-Meetup/events/255017669/)
+
+\#44. 2018/09/18 - [Kaohsiung Python Meetup #44 - async 資料工程 await Serial port](https://www.meetup.com/Kaohsiung-Python-Meetup/events/254619272/)
+
 \#43. 2018/08/20 - [Numpy, MatPlotLib, Pandas 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/253411278/)
 
 \#42. 2018/07/30 - [MicroPython與機器人](https://www.meetup.com/Kaohsiung-Python-Meetup/events/253051138/)
