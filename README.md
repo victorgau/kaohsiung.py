@@ -2,11 +2,19 @@
 
 Facebook: [https://www.facebook.com/groups/kaohsiungpy/](https://www.facebook.com/groups/kaohsiungpy/)
 
-活動網址：[https://www.meetup.com/Kaohsiung-Python-Meetup/](https://www.meetup.com/Kaohsiung-Python-Meetup/)
+活動網址：[https://www.meetup.com/Kaohsiung-Python-Meetup/](https://www.meetup.com/Kaohsiung-Python-Meetup/) (內含 Kaohsiung.py, Python 量化投資, 跟 PyTorch Kaohsiung 的活動。)
 
 活動網址 (舊)：[https://kaohsiungpy.kktix.cc/](https://kaohsiungpy.kktix.cc/)
 
 ## 舉辦過的活動：
+
+\#50. 2019/04/02 - [Kaohsiung Python Meetup #50 - Image Captioning + 基金資料抓取及分析](https://www.meetup.com/Kaohsiung-Python-Meetup/events/260121213/)
+
+\#49. 2019/03/18 - [Kaohsiung Python Meetup #49 - 1. IoT + Flask, 2. 國外工作經驗分享, 3. 小人提計畫說明](https://www.meetup.com/Kaohsiung-Python-Meetup/events/259542053/)
+
+\#48. 2019/01/21 - [Kaohsiung Python Meetup #48 - Micro:Bit-Python一起玩](https://www.meetup.com/Kaohsiung-Python-Meetup/events/258062823/)
+
+\#47. 2018/12/11 - [Kaohsiung Python Meetup #47 - Stackless Python 介紹](https://www.meetup.com/Kaohsiung-Python-Meetup/events/256867596/)
 
 \#46. 2018/11/06 - [Kaohsiung Python Meetup #46 - RAPIDS 簡介](https://www.meetup.com/Kaohsiung-Python-Meetup/events/255984412/)
 
